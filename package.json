@@ -1,0 +1,60 @@
+{
+  "name": "visual-music-art",
+  "version": "0.1.0",
+  "homepage": "https://fheyen.github.io/visual-music-art/",
+  "private": false,
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.32",
+    "@fortawesome/free-brands-svg-icons": "^5.15.1",
+    "@fortawesome/free-solid-svg-icons": "^5.15.1",
+    "@fortawesome/react-fontawesome": "^0.1.14",
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "d3": "^6.3.1",
+    "eslint": "^7.17.0",
+    "eslint-config-react-app": "^6.0.0",
+    "midi-parser-js": "^4.0.4",
+    "musicvis-lib": "^0.33.1",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-refresh": "^0.9.0",
+    "react-scripts": "4.0.1",
+    "soundfont-player": "^0.12.0"
+  },
+  "devDependencies": {
+    "@types/d3": "^6.2.0",
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "eslint-plugin-jsdoc": "^30.7.13",
+    "gh-pages": "^3.1.0",
+    "npm-check-updates": "^10.2.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "upd": "npm-check-updates -u"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

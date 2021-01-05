@@ -1,0 +1,49 @@
+.KalimbaTab {
+    padding: 15px;
+}
+
+.KalimbaTab textarea {
+    margin-top: 3px;
+    width: 95%;
+    min-height: 200px;
+    padding: 15px;
+    border-radius: 5px;
+    background-color: #333;
+    color: #eee;
+}
+
+.KalimbaTab .control >div {
+    margin-bottom: 15px;
+}
+
+.KalimbaTab .control button,
+.KalimbaTab .control input,
+.KalimbaTab .control select {
+    margin: 2px 5px;
+}
+
+.KalimbaTab .control label {
+    margin-right: 10px;
+}
+
+.KalimbaTab .tab {
+    width: 95%;
+    padding: 15px;
+    overflow: scroll;
+}
+
+.KalimbaTab .note {
+    display: inline-block;
+    margin: 10px 3px;
+    padding: 1px 4px;
+    border-radius: 5px;
+    text-shadow: 0 0 3px black;
+}
+
+.KalimbaTab .chord {
+    margin: 0 3px;
+    padding: 3px 1px;
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 5px;
+}
