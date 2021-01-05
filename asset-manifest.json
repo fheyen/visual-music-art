@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/visual-music-art/static/css/main.c92c45f5.chunk.css",
+    "main.js": "/visual-music-art/static/js/main.a6fa4310.chunk.js",
+    "main.js.map": "/visual-music-art/static/js/main.a6fa4310.chunk.js.map",
+    "runtime-main.js": "/visual-music-art/static/js/runtime-main.822ca57b.js",
+    "runtime-main.js.map": "/visual-music-art/static/js/runtime-main.822ca57b.js.map",
+    "static/js/2.73c4fbc1.chunk.js": "/visual-music-art/static/js/2.73c4fbc1.chunk.js",
+    "static/js/2.73c4fbc1.chunk.js.map": "/visual-music-art/static/js/2.73c4fbc1.chunk.js.map",
+    "index.html": "/visual-music-art/index.html",
+    "static/css/main.c92c45f5.chunk.css.map": "/visual-music-art/static/css/main.c92c45f5.chunk.css.map",
+    "static/js/2.73c4fbc1.chunk.js.LICENSE.txt": "/visual-music-art/static/js/2.73c4fbc1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.822ca57b.js",
+    "static/js/2.73c4fbc1.chunk.js",
+    "static/css/main.c92c45f5.chunk.css",
+    "static/js/main.a6fa4310.chunk.js"
+  ]
+}
